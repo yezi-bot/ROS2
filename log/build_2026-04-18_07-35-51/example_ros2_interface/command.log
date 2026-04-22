@@ -1,6 +1,0 @@
-Invoking command in '/home/yezi/chapt_ws/build/example_ros2_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yezi/chapt_ws/src/example_ros2_interface -DCMAKE_INSTALL_PREFIX=/home/yezi/chapt_ws/install/example_ros2_interface
-Invoked command in '/home/yezi/chapt_ws/build/example_ros2_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yezi/chapt_ws/src/example_ros2_interface -DCMAKE_INSTALL_PREFIX=/home/yezi/chapt_ws/install/example_ros2_interface
-Invoking command in '/home/yezi/chapt_ws/build/example_ros2_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yezi/chapt_ws/build/example_ros2_interface -- -j8 -l8
-Invoked command in '/home/yezi/chapt_ws/build/example_ros2_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yezi/chapt_ws/build/example_ros2_interface -- -j8 -l8
-Invoking command in '/home/yezi/chapt_ws/build/example_ros2_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yezi/chapt_ws/build/example_ros2_interface
-Invoked command in '/home/yezi/chapt_ws/build/example_ros2_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yezi/chapt_ws/build/example_ros2_interface
