@@ -1,8 +1,0 @@
-{
-  "package_name": "example_ros2_interface",
-  "non_idl_tuples": [
-    "/home/yezi/chapt_ws/src/example_ros2_interface:msg/RobotPose.msg",
-    "/home/yezi/chapt_ws/src/example_ros2_interface:msg/RobotStatus.msg",
-    "/home/yezi/chapt_ws/src/example_ros2_interface:srv/MoveRobot.srv"
-  ]
-}
