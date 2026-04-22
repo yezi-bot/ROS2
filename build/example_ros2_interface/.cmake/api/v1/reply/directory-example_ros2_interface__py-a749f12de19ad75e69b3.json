@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "example_ros2_interface__py",
+		"source" : "/home/yezi/chapt_ws/build/example_ros2_interface/example_ros2_interface__py"
+	}
+}

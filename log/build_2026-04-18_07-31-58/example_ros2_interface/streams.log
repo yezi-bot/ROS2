@@ -1,0 +1,8 @@
+[0.012s] Invoking command in '/home/yezi/chapt_ws/build/example_ros2_interface': /usr/bin/cmake /home/yezi/chapt_ws/src/example_ros2_interface -DCMAKE_INSTALL_PREFIX=/home/yezi/chapt_ws/install/example_ros2_interface
+[0.025s] [31mCMake Error at CMakeLists.txt:4 (rosidl_generate_interfaces):
+[0.025s]   Unknown CMake command "rosidl_generate_interfaces".
+[0.025s] 
+[0.025s] [0m
+[0.025s] -- Configuring incomplete, errors occurred!
+[0.026s] See also "/home/yezi/chapt_ws/build/example_ros2_interface/CMakeFiles/CMakeOutput.log".
+[0.027s] Invoked command in '/home/yezi/chapt_ws/build/example_ros2_interface' returned '1': /usr/bin/cmake /home/yezi/chapt_ws/src/example_ros2_interface -DCMAKE_INSTALL_PREFIX=/home/yezi/chapt_ws/install/example_ros2_interface

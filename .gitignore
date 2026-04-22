@@ -1,0 +1,7 @@
+*.h5
+*.pb
+*.tflite
+__pycache__/
+.ipynb_checkpoints/
+/model_weights/
+logs/

@@ -1,0 +1,6 @@
+[31mCMake Error at CMakeLists.txt:4 (rosidl_generate_interfaces):
+  Unknown CMake command "rosidl_generate_interfaces".
+
+[0m
+-- Configuring incomplete, errors occurred!
+See also "/home/yezi/chapt_ws/build/example_ros2_interface/CMakeFiles/CMakeOutput.log".

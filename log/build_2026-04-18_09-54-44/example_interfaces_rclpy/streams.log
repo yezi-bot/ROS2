@@ -1,0 +1,25 @@
+[0.444s] Invoking command in '/home/yezi/chapt_ws/src/example_interfaces_rclpy': PYTHONPATH=/home/yezi/chapt_ws/build/example_interfaces_rclpy/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yezi/chapt_ws/install/example_interfaces_rclpy/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/example_interfaces_rclpy build --build-base /home/yezi/chapt_ws/build/example_interfaces_rclpy/build install --record /home/yezi/chapt_ws/build/example_interfaces_rclpy/install.log --single-version-externally-managed install_data
+[0.660s] running egg_info
+[0.661s] writing ../../build/example_interfaces_rclpy/example_interfaces_rclpy.egg-info/PKG-INFO
+[0.661s] writing dependency_links to ../../build/example_interfaces_rclpy/example_interfaces_rclpy.egg-info/dependency_links.txt
+[0.661s] writing entry points to ../../build/example_interfaces_rclpy/example_interfaces_rclpy.egg-info/entry_points.txt
+[0.662s] writing requirements to ../../build/example_interfaces_rclpy/example_interfaces_rclpy.egg-info/requires.txt
+[0.662s] writing top-level names to ../../build/example_interfaces_rclpy/example_interfaces_rclpy.egg-info/top_level.txt
+[0.663s] reading manifest file '../../build/example_interfaces_rclpy/example_interfaces_rclpy.egg-info/SOURCES.txt'
+[0.664s] writing manifest file '../../build/example_interfaces_rclpy/example_interfaces_rclpy.egg-info/SOURCES.txt'
+[0.664s] running build
+[0.664s] running build_py
+[0.664s] copying example_interfaces_rclpy/example_interfaces_control_02.py -> /home/yezi/chapt_ws/build/example_interfaces_rclpy/build/lib/example_interfaces_rclpy
+[0.665s] running install
+[0.665s] running install_lib
+[0.665s] copying /home/yezi/chapt_ws/build/example_interfaces_rclpy/build/lib/example_interfaces_rclpy/example_interfaces_control_02.py -> /home/yezi/chapt_ws/install/example_interfaces_rclpy/lib/python3.10/site-packages/example_interfaces_rclpy
+[0.666s] byte-compiling /home/yezi/chapt_ws/install/example_interfaces_rclpy/lib/python3.10/site-packages/example_interfaces_rclpy/example_interfaces_control_02.py to example_interfaces_control_02.cpython-310.pyc
+[0.667s] running install_data
+[0.667s] running install_egg_info
+[0.669s] removing '/home/yezi/chapt_ws/install/example_interfaces_rclpy/lib/python3.10/site-packages/example_interfaces_rclpy-0.0.0-py3.10.egg-info' (and everything under it)
+[0.669s] Copying ../../build/example_interfaces_rclpy/example_interfaces_rclpy.egg-info to /home/yezi/chapt_ws/install/example_interfaces_rclpy/lib/python3.10/site-packages/example_interfaces_rclpy-0.0.0-py3.10.egg-info
+[0.670s] running install_scripts
+[0.693s] Installing example_interface_control_02 script to /home/yezi/chapt_ws/install/example_interfaces_rclpy/lib/example_interfaces_rclpy
+[0.693s] Installing example_interfaces_robot_02 script to /home/yezi/chapt_ws/install/example_interfaces_rclpy/lib/example_interfaces_rclpy
+[0.694s] writing list of installed files to '/home/yezi/chapt_ws/build/example_interfaces_rclpy/install.log'
+[0.709s] Invoked command in '/home/yezi/chapt_ws/src/example_interfaces_rclpy' returned '0': PYTHONPATH=/home/yezi/chapt_ws/build/example_interfaces_rclpy/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yezi/chapt_ws/install/example_interfaces_rclpy/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/example_interfaces_rclpy build --build-base /home/yezi/chapt_ws/build/example_interfaces_rclpy/build install --record /home/yezi/chapt_ws/build/example_interfaces_rclpy/install.log --single-version-externally-managed install_data

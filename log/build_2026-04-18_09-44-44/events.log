@@ -1,0 +1,4 @@
+[0.000000] (-) TimerEvent: {}
+[0.000439] (-) JobUnselected: {'identifier': 'example_interfaces_rclpy'}
+[0.000927] (-) JobUnselected: {'identifier': 'example_ros2_interface'}
+[0.001446] (-) EventReactorShutdown: {}
